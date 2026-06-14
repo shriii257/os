@@ -1,6 +1,6 @@
 # myOS
 
-A hobby x86 operating system built from scratch in x86 assembly and C.
+
 
 ## Project Structure
 
